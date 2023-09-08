@@ -12,3 +12,9 @@ datetime
 pytz
 aiohttp
 dnspython==2.3.0
+colorama
+psutil
+apscheduler
+aiofiles
+python-dotenv<=0.20.0
+motor==2.5.1
