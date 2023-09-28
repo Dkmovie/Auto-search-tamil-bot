@@ -17,4 +17,13 @@ psutil
 apscheduler
 aiofiles
 python-dotenv<=0.20.0
-motor==2.5.1
+imdbpy==2022.7.9
+hachoir
+Pillow
+humanize
+pynewtonmath
+openai
+jinja2
+pyshorteners
+psutil
+pyromod
